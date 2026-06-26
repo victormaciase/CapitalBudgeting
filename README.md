@@ -1,4 +1,4 @@
-# CapitalBudgeting
+# Capital Budgeting
 Tools and models for evaluating long-term corporate investments.
 
-[Monte Carlo Simulations](https://montecarlo-capex.vercel.app/)
+We designed and developed a financial web app for capital budgeting to run [Monte Carlo Simulations](https://montecarlo-capex.vercel.app/), currently in its beta/development phase.
